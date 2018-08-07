@@ -1,1 +1,1 @@
-case class Algue()
+case class Algue() extends Mangeable
